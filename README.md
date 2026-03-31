@@ -1,3 +1,5 @@
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/7fc75280-823c-4447-bbcd-57441791d6bc" />
+
 # AutoTile
 
 一个轻量的 macOS 菜单栏窗口整理工具，适合想快速整理窗口、快速显示桌面的人。
